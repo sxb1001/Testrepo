@@ -1,0 +1,4 @@
+subscription_id="9327af12-a3a7-464d-96cc-8f4979b32f57"
+client_id="e8a62639-ab9f-43cc-ad36-5a2b89d9f998"
+client_secret="25949352-d48b-4c47-baa9-a1ae04fb05da"
+tenant_id="9779b744-a22e-44ea-a474-272840a10eb3"
